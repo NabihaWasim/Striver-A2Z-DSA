@@ -1,5 +1,5 @@
 /*
-  Given Pattern-:Pyramid of Stars
+  Given Pattern-:Pyramid of StarsPyramid of Stars
          *
        * * *
      * * * * *
